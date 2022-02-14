@@ -2,6 +2,7 @@ import React from 'react';
 import LeerTagComponent from './components/LeerTag';
 import RegistrarTagComponent from './components/RegistrarTag';
 import CheckTagComponent from './components/CheckTag';
+import "./App.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Route, BrowserRouter, Switch, Router, Link, NavLink } from 'react-router-dom';
 import IngresosComponent from './components/Ingresos';
